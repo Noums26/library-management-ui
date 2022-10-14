@@ -50,6 +50,9 @@ footer {
 
 .indication__option {
     margin: 20px;
+    cursor: pointer;
+    text-decoration: none;
+    color: white;
 }
 
 .container {
